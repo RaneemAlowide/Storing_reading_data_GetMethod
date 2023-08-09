@@ -9,7 +9,7 @@ There are two php files:
 Also, one HTML file that is connected with the print_data.php file it just gives the user a link which they can click and and see the data.
 
 
-
+there is an image file which has the screenShots of all the outputs of this project.
 
 
 
